@@ -20,7 +20,7 @@
 <br>
 
 
-<h2 align="center"> 📚 Languages & tools I Have placed My Hands On </h2>
+<h2> 📚 Languages & tools I Have placed My Hands On</h2>
 
 <br>
 
