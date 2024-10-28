@@ -5,7 +5,7 @@
 
 <h1 align="left">
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+7EVILANGEL7+HERE+🔥+!;" alt="Typing Animation" style="width:100%"/>
-<h2>💫 About Me</h2>
+<h3>💫 About Me</h3>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
@@ -38,7 +38,7 @@
 <!-- ## 📚 &nbsp;My Projects -->
 
 
-<h2 align="center">Support Me 💰 </h2>
+<h3 align="center">Support Me 💰 </h3>
 
 <p align="center">
   <a href="https://buymeacoffee.com/joshuathadi">
