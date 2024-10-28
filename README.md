@@ -20,9 +20,9 @@
 <br>
 
 
-<h2> 📚 Languages & tools I Have placed My Hands On</h2>
+<h2>📚 Languages & tools I Have placed My Hands On </h2>
 
-<br>
+</br>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,anaconda,vscode,github,git,mysql,mongodb,postgres" /><br>
