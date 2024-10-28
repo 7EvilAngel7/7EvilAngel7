@@ -14,11 +14,10 @@
   <h3>🌟 Reach Me on:</h3>
 
   <a href="mailto:pgonzalez.miguelangel@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/miguel-angel-pérez-gonzález-1335732b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+  <a href="https://www.linkedin.com/in/miguel-angel-pérez-gonzález-1335732b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   
 <br>
 <br>
-
 
 <h2>📚 Languages & tools I Have placed My Hands On </h2>
 
