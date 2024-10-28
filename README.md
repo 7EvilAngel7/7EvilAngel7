@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<h2>📚 Languages & tools I Have placed My Hands On </h2>
+<h3>📚 Languages & tools I Have placed My Hands On </h3>
 
 </br>
 
